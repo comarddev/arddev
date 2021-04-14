@@ -30,7 +30,7 @@ MODE NATIVE HANYA  - 1 - 2 - 3 -
 "mode_offline_mp3" : false,
 "enable_sticky_notification" : false,
 
-"startapp" : "YOUR_APP_ID",
+"startapp" : "203114362",
 
 "admob_banner" : "ca-app-pub-3940256099942544/6300978111",
 "admob_inter" : "ca-app-pub-3940256099942544/1033173712",
