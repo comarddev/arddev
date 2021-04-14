@@ -23,12 +23,12 @@ MODE NATIVE HANYA  - 1 - 2 - 3 -
 "inter_count" : 2,
 
 "enable_strap" : true,
-"enable_strap_Splah" : true,
+"enable_strap_Splah" : false,
 
 "ads_on_exit_dialog" : true,
 
 "mode_offline_mp3" : false,
-"enable_sticky_notification" : true,
+"enable_sticky_notification" : false,
 
 "startapp" : "YOUR_APP_ID",
 
