@@ -4,7 +4,7 @@
 "json_popup_wait" : "Server Ready - v17j12",
   
 "mode_no_ads" : false,
-"mode_tes_iklan_fan_admob_startapp_appdodeal" : true,
+"mode_tes_iklan_fan_admob_startapp_appdodeal" : false,
 
 "Mode Iklan " : "
 mode pengaturan iklan
@@ -17,10 +17,10 @@ MODE NATIVE HANYA  - 1 - 2 - 3 -
 ",
 
 "pengaturan_iklan_banner" : "1",
-"pengaturan_iklan_inter" : "2",
+"pengaturan_iklan_inter" : "1",
 "pengaturan_iklan_native" : "1",
 
-"inter_count" : 2,
+"inter_count" : 3,
 
 "enable_strap" : true,
 "enable_strap_Splah" : false,
