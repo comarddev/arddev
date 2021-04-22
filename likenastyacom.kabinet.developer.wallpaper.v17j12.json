@@ -4,7 +4,7 @@
 "json_popup_wait" : "Server Ready - v17j12",
   
 "mode_no_ads" : false,
-"mode_tes_iklan_fan_admob_startapp_appdodeal" : true,
+"mode_tes_iklan_fan_admob_startapp_appdodeal" : false,
 
 "Mode Iklan " : "
 mode pengaturan iklan
@@ -17,8 +17,8 @@ MODE NATIVE HANYA  - 1 - 2 - 3 -
 ",
 
 "pengaturan_iklan_banner" : "1",
-"pengaturan_iklan_inter" : "2",
-"pengaturan_iklan_native" : "3",
+"pengaturan_iklan_inter" : "1",
+"pengaturan_iklan_native" : "1",
 
 "inter_count" : 2,
 
@@ -32,9 +32,9 @@ MODE NATIVE HANYA  - 1 - 2 - 3 -
 
 "startapp" : "203129756",
 
-"admob_banner" : "ca-app-pub-3940256099942544/6300978111",
-"admob_inter" : "ca-app-pub-3940256099942544/1033173712",
-"admob_native" : "ca-app-pub-3940256099942544/2247696110",
+"admob_banner" : "ca-app-pub-2703599222414440/3225374429",
+"admob_inter" : "ca-app-pub-2703599222414440/1720721068",
+"admob_native" : "ca-app-pub-2703599222414440/4705977059",
 
 "hpk_alien" : "kuota data 30gb",
 "hpkadmob1" : "Kuota Data",
