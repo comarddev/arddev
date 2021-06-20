@@ -30,7 +30,7 @@
 "mode_offline_mp3" : false,
 "enable_sticky_notification" : true,
 
-"startapp" : "YOUR_APP_ID",
+"startapp" : "205534791",
 
 "admob_banner" : "ca-app-pub-2703599222414440/8324517195",
 "admob_inter" : "ca-app-pub-2703599222414440/5142792418",
@@ -49,9 +49,9 @@
 
 "appodeal_app_id" : "YOUR_APPODEAL_APP_KEY",
 
-"unity_banner_id" : "Banner",
-"unity_inters_id" : "Interstitial",
-"unity_id" : 4045251,
+"unity_banner_id" : "Banner_Android",
+"unity_inters_id" : "Interstitial_Android",
+"unity_id" : 4177425,
 "unity_test" : true,
 
 "applovin_banner_id" : "YOUR_AD_UNIT_ID",
