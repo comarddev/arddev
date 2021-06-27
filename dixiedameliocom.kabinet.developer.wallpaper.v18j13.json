@@ -3,8 +3,8 @@
  
 "json_popup_wait" : "Server Ready - v18j13",
   
-"mode_no_ads" : true,
-"mode_tes_iklan_fan_admob_startapp_appdodeal" : true,
+"mode_no_ads" : false,
+"mode_tes_iklan_fan_admob_startapp_appdodeal" : false,
 
 // Mode Iklan
 // 
@@ -20,7 +20,7 @@
 "pengaturan_iklan_inter" : "ADMOB",
 "pengaturan_iklan_native" : "ADMOB",
 
-"inter_count" : 2,
+"inter_count" : 3,
 
 "enable_strap" : true,
 "enable_strap_Splah" : false,
