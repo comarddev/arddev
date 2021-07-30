@@ -30,11 +30,11 @@
 "mode_offline_mp3" : false,
 "enable_sticky_notification" : true,
 
-"startapp" : "206715428",
+"startapp" : ,
 
-"admob_banner" : "ca-app-pub-2703599222414440/2243409716",
-"admob_inter" : "ca-app-pub-2703599222414440/5886500628",
-"admob_native" : "ca-app-pub-2703599222414440/3695451553",
+"admob_banner" : "",
+"admob_inter" : "8",
+"admob_native" : "",
 
 "hpk_alien" : "",
 "hpkadmob1" : "",
@@ -51,7 +51,7 @@
 
 "unity_banner_id" : "Banner_Android",
 "unity_inters_id" : "Interstitial_Android",
-"unity_id" : 4219617,
+"unity_id" : ,
 "unity_test" : false,
 
 "applovin_banner_id" : "YOUR_AD_UNIT_ID",
