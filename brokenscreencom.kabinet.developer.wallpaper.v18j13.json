@@ -3,7 +3,7 @@
  
 "json_popup_wait" : "Server Ready - v18j13",
   
-"mode_no_ads" : false,
+"mode_no_ads" : true,
 "mode_tes_iklan_fan_admob_startapp_appdodeal" : false,
 
 // Mode Iklan
@@ -30,11 +30,11 @@
 "mode_offline_mp3" : false,
 "enable_sticky_notification" : true,
 
-"startapp" : "206962169",
+"startapp" : "",
 
-"admob_banner" : "ca-app-pub-2703599222414440/5297449479",
-"admob_inter" : "ca-app-pub-2703599222414440/7355555032",
-"admob_native" : "ca-app-pub-2703599222414440/8285493324",
+"admob_banner" : "",
+"admob_inter" : "",
+"admob_native" : "",
 
 "hpk_alien" : "",
 "hpkadmob1" : "",
@@ -51,7 +51,7 @@
 
 "unity_banner_id" : "Banner_Android",
 "unity_inters_id" : "Interstitial_Android",
-"unity_id" : 4206425,
+"unity_id" : ,
 "unity_test" : false,
 
 "applovin_banner_id" : "YOUR_AD_UNIT_ID",
